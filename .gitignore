@@ -1,0 +1,13 @@
+# Ignore Data folder and its contents
+Data/Sentinel1/sentinel1_data/
+
+# Ignore common data file types
+*.tif
+*.tiff
+*.zip
+*.tar
+*.gz
+*.h5
+*.nc
+*.bin
+*.dat
