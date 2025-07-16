@@ -11,3 +11,4 @@ Data/Sentinel1/sentinel1_data/
 *.nc
 *.bin
 *.dat
+*.DS_Store
