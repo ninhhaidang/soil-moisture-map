@@ -12,3 +12,4 @@ Data/Sentinel1/sentinel1_data/
 *.bin
 *.dat
 *.DS_Store
+*.xml
